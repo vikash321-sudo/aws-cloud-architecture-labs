@@ -1,3 +1,31 @@
-# Practical evidence index
+# Selected practical evidence
 
-Original screenshots retained separately: source order count (25), source item count (52), imported database and four tables, RDS baseline counts, new order after local database shutdown, final RDS counts (26 orders and 53 items), independent SSH service and dump checks. Cropped copies are included in the locally prepared repository ZIP; binary images have not yet been uploaded here.
+Cropped original screenshots; browser chrome and unnecessary identifiers omitted. Original evidence is retained separately by the learner.
+
+## Source order count: 25
+
+![Source order count: 25](source-order-count.png)
+
+## Source order-item count: 52
+
+![Source order-item count: 52](source-item-count.png)
+
+## Imported database and four tables
+
+![Imported database and four tables](import-validation.png)
+
+## RDS baseline counts and pre-migration order
+
+![RDS baseline counts and pre-migration order](baseline-rds-counts.png)
+
+## New application order after shutdown
+
+![New application order after shutdown](post-cutover-order.png)
+
+## Final RDS SQL results: 26 orders and 53 items
+
+![Final RDS SQL results: 26 orders and 53 items](final-rds-validation.png)
+
+## Independent SSH service, database status and dump checks
+
+![Independent SSH service, database status and dump checks](ssh-checks.png)
