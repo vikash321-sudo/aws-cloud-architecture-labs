@@ -1,3 +1,15 @@
-# Practical evidence index
+# Selected practical evidence
 
-Original screenshots retained separately: development order confirmation ($6), destination-region order confirmation ($6), and destination history showing inherited and new orders. Cropped copies are included in the locally prepared repository ZIP; binary images have not yet been uploaded here.
+Cropped original screenshots; browser chrome and unnecessary identifiers omitted. Original evidence is retained separately by the learner.
+
+## Development order confirmation
+
+![Development order confirmation](development-order.png)
+
+## Destination region order confirmation
+
+![Destination region order confirmation](destination-order.png)
+
+## Destination order history showing inherited and new orders
+
+![Destination order history showing inherited and new orders](destination-history.png)
