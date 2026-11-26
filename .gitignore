@@ -1,0 +1,11 @@
+*.pem
+*.ppk
+*.key
+.env
+.env.*
+.aws/
+.ssh/
+*DbDump.sql
+*.dump
+*.zip
+*credentials*
